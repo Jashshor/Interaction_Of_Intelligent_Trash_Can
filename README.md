@@ -21,7 +21,9 @@
 上位机接收示例：
 
 距离数据（cm单位）——juli200
+
 颜色传感器数据——red/green/blue/none
+
 伺服电机测试反馈——dianjigongzuo/dianjibugongzuo
 
 垃圾桶满/不满——f/e
